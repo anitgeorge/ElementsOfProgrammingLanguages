@@ -13,4 +13,8 @@ Sort Almost Sorted Array
 
 Kth Smallest in a merge of M sorted Arrays
 
-Find closest starts
+Find closest stars
+
+Find Median of a Stream
+
+K largest elements in a heap
